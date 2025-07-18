@@ -1,8 +1,8 @@
-# GoCommerce: gRPC Microservices with GraphQL Gateway
+# Polyshop: gRPC Microservices with GraphQL Gateway
 
-![GoCommerce Thumbnail](./assets/thumbnail.jpg)
 
-GoCommerce is a backend system built using a microservices architecture in **Go**, utilizing **gRPC** for internal communication and **GraphQL** as the API gateway. It includes services for **account management**, **product catalog**, and **order processing**—each running independently and communicating efficiently.
+
+Polyshop is a backend system built using a microservices architecture in **Go**, utilizing **gRPC** for internal communication and **GraphQL** as the API gateway. It includes services for **account management**, **product catalog**, and **order processing**—each running independently and communicating efficiently.
 
 ## 🧩 Tech Stack
 
